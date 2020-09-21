@@ -16,3 +16,11 @@ body {
 .info h2 {
     word-spacing: 0.6rem;
 }
+
+.info a {
+    transition: color 2s ease-in-out;
+}
+
+.info a:hover {
+    color: #242424;
+}
