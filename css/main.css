@@ -12,3 +12,7 @@ body {
 .primary-color {
     color: #d3325f;
 }
+
+.info h2 {
+    word-spacing: 0.6rem;
+}
