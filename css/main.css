@@ -1,7 +1,14 @@
+/* white #c9c1ac */
+/* Red color #d3325f */
+
 .info {
     background: #c9c1ac;
 }
 
 body {
     font-family: 'Mr Dafoe', cursive;
+}
+
+.primary-color {
+    color: #d3325f;
 }
