@@ -78,6 +78,14 @@ body {
     background: #c9c1ac;
 }
 
+.sushi-btn {
+    animation: fromRight;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
 @keyframes fromRight {
     0% {
         transform: translateX(100px);
