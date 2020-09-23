@@ -66,4 +66,9 @@ body {
     left: 50%;
     background: #c9c1ac;
     border-radius: 10px;
+    transition: all 2s ease;
+}
+
+.header-link:hover {
+    color: #242424;
 }
