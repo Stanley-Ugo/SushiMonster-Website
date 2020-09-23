@@ -49,4 +49,11 @@ body {
     color: #d3325f;
     font-size: 2rem;
     border: 2px solid #d3325f;
+    transition: all 1s ease-in-out;
+}
+
+.main-btn:hover {
+    color: #242424;
+    border: 2px solid #c9c1ac;
+    background: #c9c1ac;
 }
