@@ -44,3 +44,9 @@ body {
     border-top: 6px dotted #c9c1ac;
     border-bottom: 6px dotted #c9c1ac;
 }
+
+.main-btn {
+    color: #d3325f;
+    font-size: 2rem;
+    border: 2px solid #d3325f;
+}
