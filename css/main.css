@@ -108,6 +108,9 @@ body {
     background: #c9c1ac;
     border-radius: 10px;
     transition: all 2s ease;
+    animation: fromBottom;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
 
 .header-link:hover {
