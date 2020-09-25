@@ -4,5 +4,10 @@ $(document).ready(function(){
         dropRadius: 25,
         perturbance: 0.6,
     });
+    //magnific popup
+    $('.parent-container').magnificPopup({
+        delegate: 'a', //child item selector,
+        type: 'image'
+    });
 
 });
