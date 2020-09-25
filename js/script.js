@@ -7,7 +7,10 @@ $(document).ready(function(){
     //magnific popup
     $('.parent-container').magnificPopup({
         delegate: 'a', //child item selector,
-        type: 'image'
+        type: 'image',
+        gallery: {
+            enabled: true
+        }
     });
 
 });
