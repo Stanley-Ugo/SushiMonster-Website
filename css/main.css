@@ -160,3 +160,14 @@ body {
     transition: all 2s ease;
     opacity: 0;
 }
+
+.item-container:hover .item-link {
+    opacity: 1;
+}
+
+.item-link:hover {
+    color: #c9c1ac;
+    border: 3px solid #c9c1ac;
+    background: #c9c1ac;
+    color: #242424;
+}
