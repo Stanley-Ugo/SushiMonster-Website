@@ -142,3 +142,7 @@ body {
 .item-img {
     transition: all 2s ease;
 }
+
+.item-container:hover .item-img {
+    transform: scale(1.2);
+}
