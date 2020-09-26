@@ -145,4 +145,18 @@ body {
 
 .item-container:hover .item-img {
     transform: scale(1.2);
+    opacity: 0.5;
+}
+
+.item-link {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #d3325f;
+    font-size: 2rem;
+    border-top: 3px solid #d3325f;
+    border-bottom: 3px solid #d3325f;
+    transition: all 2s ease;
+    opacity: 0;
 }
