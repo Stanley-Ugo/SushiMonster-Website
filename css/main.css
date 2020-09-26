@@ -130,3 +130,11 @@ body {
     }
 }
 /*########################## menu items ################*/
+
+.item-container {
+    position: relative;
+    /* for the link */
+    overflow: hidden;
+    background: linear-gradient(rgb(0,0,0), rgb(0,0,0));
+    transition: all 2s ease;
+}
