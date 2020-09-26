@@ -171,3 +171,8 @@ body {
     background: #c9c1ac;
     color: #242424;
 }
+
+.item-container:hover {
+    outline: 10px solid #d3325f;
+    outline-offset: 0.8rem;
+}
