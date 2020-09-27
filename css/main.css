@@ -186,3 +186,11 @@ body {
     border: 3px solid #d3325f;
     position: relative;
 }
+
+.special-text {
+    position: absolute;
+    top: 0;
+    right: 10%;
+    background: #d3325f;
+    padding: 0 0.4rem;
+}
