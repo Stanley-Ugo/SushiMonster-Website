@@ -207,3 +207,8 @@ body {
     transition: all 2s ease;
     opacity: 0.9;
 }
+
+.img-1 {
+    left: 0%;
+    top: 0%;
+}
