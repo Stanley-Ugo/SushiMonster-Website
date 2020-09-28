@@ -242,3 +242,7 @@ body {
     z-index: 30;
     opacity: 1;
 }
+
+.about-pictures:hover .about-image:not(:hover) {
+    opacity: 0.5;
+}
