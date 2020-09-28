@@ -194,3 +194,16 @@ body {
     background: #d3325f;
     padding: 0 0.4rem;
 }
+
+/* ###############ABOUT SECTION ############ */
+
+.about-pictures {
+    position: relative;
+}
+
+.about-image {
+    position: absolute;
+    width: 150px;
+    transition: all 2s ease;
+    opacity: 0.9;
+}
