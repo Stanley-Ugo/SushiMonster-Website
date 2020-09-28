@@ -218,3 +218,9 @@ body {
     top: 20%;
     z-index: 10;
 }
+
+.img-3 {
+    left: 40%;
+    top: 45%;
+    z-index: 20;
+}
