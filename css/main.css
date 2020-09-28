@@ -212,3 +212,9 @@ body {
     left: 0%;
     top: 0%;
 }
+
+.img-2 {
+    left: 20%;
+    top: 20%;
+    z-index: 10;
+}
