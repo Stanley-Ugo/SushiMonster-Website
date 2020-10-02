@@ -258,3 +258,7 @@ body {
 }
 
 /* ######################TEAM SECTION##################### */
+.team-icons a {
+    color: #3b5998;
+    transition: all 2s ease-in-out;
+}
