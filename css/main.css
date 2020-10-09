@@ -285,3 +285,9 @@ body {
 #contact .card-header{
     color: #d3325f;
 }
+
+#contact .input-group-text {
+    background: #d3325f;
+    border-color: #d3325f;
+    color: #242424;
+}
