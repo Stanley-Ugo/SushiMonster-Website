@@ -291,3 +291,7 @@ body {
     border-color: #d3325f;
     color: #242424;
 }
+
+#contact .card-input {
+    color: #606060;
+}
