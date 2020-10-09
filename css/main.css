@@ -306,3 +306,9 @@ body {
     background: transparent;
     transition: all 2s ease-in-out;
 }
+
+.contact-btn:hover {
+    background: #c9c1ac;
+    color: #d3325f;
+    border-color: #c9c1ac;
+}
