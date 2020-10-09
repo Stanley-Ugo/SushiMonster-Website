@@ -269,3 +269,6 @@ body {
 }
 
 /* #################CONTACT SECTION##################### */
+.height-60 {
+    min-height: 60vh;
+}
