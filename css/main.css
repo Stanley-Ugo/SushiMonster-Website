@@ -320,3 +320,8 @@ body {
     display: inline-block;
 }
 
+.scrollTop {
+    position: fixed;
+    bottom: 70px;
+    right: 10px;
+}
