@@ -314,3 +314,9 @@ body {
 }
 
 /* #################Footer############### */
+#back-to-top {
+    background: #c9c1ac;
+    border-radius: 10px;
+    display: inline-block;
+}
+
