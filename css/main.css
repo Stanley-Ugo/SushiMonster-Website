@@ -147,6 +147,13 @@ body {
 .navbar-brand:hover {
     color: #242424;
 }
+
+.nav-link {
+    color: #242424;
+    text-decoration: none;
+    transition: all 2s ease;
+    font-size: 23px;
+}
 /*########################## menu items ################*/
 
 .item-container {
