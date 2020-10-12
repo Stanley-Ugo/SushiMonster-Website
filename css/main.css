@@ -138,6 +138,10 @@ body {
 .navbar-background {
     padding: 5px 20px;
 }
+
+.navbar-brand {
+    font-size: 30px;
+}
 /*########################## menu items ################*/
 
 .item-container {
