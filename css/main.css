@@ -141,6 +141,11 @@ body {
 
 .navbar-brand {
     font-size: 30px;
+    transition: all 1s ease;
+}
+
+.navbar-brand:hover {
+    color: #242424;
 }
 /*########################## menu items ################*/
 
