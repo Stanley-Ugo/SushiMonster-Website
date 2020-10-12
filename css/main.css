@@ -154,6 +154,10 @@ body {
     transition: all 2s ease;
     font-size: 23px;
 }
+
+.nav-link:hover {
+    color: #d3325f;
+}
 /*########################## menu items ################*/
 
 .item-container {
