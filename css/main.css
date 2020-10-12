@@ -129,6 +129,10 @@ body {
         transform: translateY(-10px);
     }
 }
+/* ###################NAVBAR######################### */
+.navbar {
+    background: #c9c1ac;
+}
 /*########################## menu items ################*/
 
 .item-container {
