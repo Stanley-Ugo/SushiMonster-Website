@@ -167,6 +167,12 @@ body {
     transition: all 2s ease;
 }
 
+.nav-btn:hover {
+    color: #242424;
+    border: 2px solid #242424;
+    transform: rotate(10deg);
+}
+
 
 
 /*########################## menu items ################*/
