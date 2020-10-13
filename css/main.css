@@ -158,6 +158,17 @@ body {
 .nav-link:hover {
     color: #d3325f;
 }
+
+.nav-btn {
+    background: transparent;
+    color: #d3325f;
+    border: 2px solid #d3325f;
+    font-size: 23px;
+    transition: all 2s ease;
+}
+
+
+
 /*########################## menu items ################*/
 
 .item-container {
