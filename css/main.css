@@ -191,6 +191,10 @@ body {
     transform: rotate(-45deg) translate(-5px, 6px);
 }
 
+.change .bar2 {
+    opacity: 0;
+}
+
 
 /*########################## menu items ################*/
 
