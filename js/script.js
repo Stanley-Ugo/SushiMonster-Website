@@ -11,7 +11,7 @@ $(document).ready(function(){
 
         if(position >= 718){
             $('.navbar').addClass('navbar-background');
-            
+            $('.navbar').addClass('fixed-top');
         }
     })
 
