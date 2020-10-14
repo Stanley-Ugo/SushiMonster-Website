@@ -1,4 +1,12 @@
 $(document).ready(function(){
+    $('.navbar-toggler').click(function(){
+        
+    })
+
+
+
+
+
     //ripples
     $("#header, .info").ripples({
         dropRadius: 25,
