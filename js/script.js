@@ -1,8 +1,13 @@
 $(document).ready(function(){
+    //toggler btn
     $('.navbar-toggler').click(function(){
         $('.navbar-toggler').toggleClass('change')
     })
 
+    //sticky navbar and less padding
+    $(window).scroll(function(){
+        
+    })
 
 
 
