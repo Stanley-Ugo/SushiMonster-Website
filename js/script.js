@@ -13,6 +13,10 @@ $(document).ready(function(){
             $('.navbar').addClass('navbar-background');
             $('.navbar').addClass('fixed-top');
         }
+        else{
+            $('.navbar').removeClass('navbar-background');
+            $('.navbar').removeClass('fixed-top');
+        }
     })
 
 
