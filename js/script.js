@@ -6,7 +6,8 @@ $(document).ready(function(){
 
     //sticky navbar and less padding
     $(window).scroll(function(){
-        
+
+        let position = $(this).scrollTop();
     })
 
 
