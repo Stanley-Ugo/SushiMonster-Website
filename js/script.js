@@ -21,7 +21,9 @@ $(document).ready(function(){
 
 
     //Smooth scroll
-    $('.nav-item a').click()
+    $('.nav-item a').click(function(){
+        
+    })
 
 
     //ripples
