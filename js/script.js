@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 
     //Smooth scroll
-    $('.nav-item a').click(function(){
+    $('.nav-item a').click(function(link){
         link.preventDefault();
 
         let target = $(this).attr('href');
